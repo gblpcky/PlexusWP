@@ -20,7 +20,7 @@ Github :- github.com/gblpcky
  
 # Donate and contact :3 
 
-If you want to do any python based project with me please kindly mail me at gblpacky7@hotmail.com
+Email:  gblpacky7@hotmail.com
 
 If you like my code :3 buy me a coffee or tea (i love tea)
 
